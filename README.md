@@ -11,7 +11,7 @@ Now with a dark theme, Kaguwo's ​​Network hosts many new features!
 - Custom and new CSS Buttons
 - New Network Pages
 - New Colors , yeah so cool!
-- New Footer design
+- New Footer design.
 - New Icons and New <code>style.css</code>!
 
 # What awaits us with these features?
