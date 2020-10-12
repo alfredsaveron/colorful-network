@@ -1,8 +1,6 @@
-# New Color Palettes and now cool!
-
 # Welcome to our new Network and yes Re-designed!
 
-Now with a dark theme, Kaguwo's ​​Network hosts many new features!
+Now with a dark theme, <a href="https://github.com/KaguwoNetwork">Kaguwo's ​​Network</a> hosts many new features!
 
 # New Features!
 
