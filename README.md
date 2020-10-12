@@ -5,7 +5,7 @@ Now with a dark theme, <a href="https://github.com/KaguwoNetwork">Kaguwo's â€‹â€
 # New Features!
 
 - Custom Scrollbar!
-- Custom Media Icons Color
+- Custom Media Icons Color.
 - Custom and new CSS Buttons
 - New Network Pages
 - New Colors , yeah so cool!
