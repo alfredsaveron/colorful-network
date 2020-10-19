@@ -1,4 +1,4 @@
-# Welcome to our new Network and yes Re-designed
+# Welcome to our new Network and yes Re-designed.
 
 Now with a dark theme, <a href="https://github.com/KaguwoNetwork">Kaguwo's ​​Network</a> hosts many new features!
 
